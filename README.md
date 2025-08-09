@@ -17,10 +17,8 @@ Easy to learn, tough to beat. How long can you keep up
 
 ## 🎨 Screenshots
 
-![screenshot1](<img width="1270" height="713" alt="image" src="https://github.com/user-attachments/assets/3f3f1d34-a70e-4073-9c7d-d275824cf5aa" />
-)  
-![screenshot2](<img width="1270" height="711" alt="image" src="https://github.com/user-attachments/assets/a3114e7c-39fe-44a5-af82-a985954725f4" />
-)
+![screenshot1](https://github.com/Aditya-J07/KeyLOOps/blob/main/screenshot2.png?raw=true)  
+![screenshot2](https://github.com/Aditya-J07/KeyLOOps/blob/main/screenshot1.png?raw=true)
 
 ---
 
