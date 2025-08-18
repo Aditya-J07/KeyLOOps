@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://dt7nu0u6ffxgr"]
+
+[ext_resource type="AudioStream" uid="uid://c7s74f6afy2am" path="res://assets/audio/game-music-loop-7-145285.mp3" id="1_4xbsw"]
+
+[node name="Audio" type="Node2D"]
+
+[node name="Game-music-loop-7-145285" type="AudioStreamPlayer2D" parent="."]
+position = Vector2(164, 158)
+stream = ExtResource("1_4xbsw")
+autoplay = true
+bus = &"bgm"

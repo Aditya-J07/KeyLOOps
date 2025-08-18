@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://d3ffqri1smoos"]
+
+[ext_resource type="AudioStream" uid="uid://d2k1s0l66fcev" path="res://assets/audio/bgm.ogg" id="1_62sgx"]
+
+[node name="Game-music-loop-7-145285" type="AudioStreamPlayer2D"]
+position = Vector2(380, 183)
+stream = ExtResource("1_62sgx")
+volume_db = 21.11
+autoplay = true
+bus = &"bgm"
